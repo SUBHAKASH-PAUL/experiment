@@ -9,4 +9,6 @@ int main()
     int sum = 0;
     sum = a + b;
     printf("%d", sum);
+
+    printf("%d", a / b);
 }
